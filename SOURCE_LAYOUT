@@ -13,3 +13,7 @@ The Preprocessor
 The Compiler
 6 sp
 Special thingies like optimization thumbEE ...
+
+0 eli - ELittle
+ELittle is a strict, restricted subset of E.
+EPL is written in Eli completely.

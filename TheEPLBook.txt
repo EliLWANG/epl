@@ -1,0 +1,10 @@
+The E Programming Language
+<Concept>
+E Programming Language is small, but perfectly formed.
+It contains a compiler suite, an interprete environment, a virtual machine, and an integrated platform.
+
+
+<how did it be formed>
+Basically E is written in Eli (ELittle ,which is a strict, restricted subset \
+ of E) ,and Eli is written in pure C with a subset of standard C Lib.
+

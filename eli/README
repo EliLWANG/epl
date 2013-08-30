@@ -1,0 +1,3 @@
+Eli ( fully, ELittle ) is a strict, restricted subset of E.
+It's written in pure C (C99), originally compiled with PCC.
+Yet, It should be OK with GCC as well as other compilers.
